@@ -1,4 +1,4 @@
-![Portada Github]()
+![Portada Github](banner.gif)
 
 - 🔭 I’m currently working on **learning in MAKAIA´S Bootcamp**
 
