@@ -1,6 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Mariany López Sánchez</h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+![Portada Github](github.mp4)
 
 - 🔭 I’m currently working on **learning in MAKAIA´S Bootcamp**
 
